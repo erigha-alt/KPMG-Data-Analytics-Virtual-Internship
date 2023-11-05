@@ -6,6 +6,7 @@ INTRODUCTION
 
  
 TASK 1: DATA QUALITY ACCESSMENT:
+
    The client provided KPMG with 3 datasets:
    Customer Demographic
    Customer Addresses
@@ -13,12 +14,14 @@ TASK 1: DATA QUALITY ACCESSMENT:
    We performed the preliminary data exploration and identify ways to improve the quality of Sprocket Central Pty Ltd’s data.
 
 TASK 2: DATA INSIGHT:
+
    targeting high value customers based on customers demographic and attribute:
 	 In building this recommendation, we started with a PowerPoint presentation which outlined the approach which we will be taking.
    The client has agreed on a 3 week scope with the following 3 phases as follows - Data Exploration; Model Development and Interpretation.
    Prepared a detailed approach for completing the analysis including activities – i.e. understanding the data distributions, feature engineering, data transformations, modelling, results interpretation and reporting.
 
 TASK 3: PRESENTATION:
+
    Developed a dashboard using POWER BI  that displays the data summary and results of the analysis. Some of the focussed business context when presenting findings were:
 
    What are the trends in the underlying data?
